@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "userId": 2,
+      "id": "9",
+      "title": "ut placeat amet veritatis impedit dolorem doloribus",
+      "body": "consectetur distinctio qui id exercitationem sunt voluptatum corrupti\nneque aut expedita voluptas excepturi sint quae\nvoluptatem adipisci doloribus qui sunt\nest autem cupiditate saepe dolorem sint voluptas"
+    },
+    {
+      "userId": 2,
+      "id": "10",
+      "title": "dolorem aut ipsum alias ex ea quidem nostrum",
+      "body": "quasi ut eaque fugit eos commodi consequatur\nvero quod pariatur laboriosam reprehenderit qui voluptatem et\nea odio molestias facere quisquam corporis\nnatus velit similique sunt in culpa qui"
+    },
+    {
+      "userId": 5,
+      "id": "101",
+      "title": "nesciunt quas odio",
+      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    },
+    {
+      "userId": 5,
+      "id": "102",
+      "title": "dolorem eum magni eos aperiam quia",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    }
+  ],
+  "comments": [
+    {
+      "postId": 9,
+      "id": "51",
+      "name": "eos velit velit architecto",
+      "email": "Herminio.Weber@rosamond.biz",
+      "body": "possimus animi et similique voluptatem dignissimos\nlibero non ratione\nsed a ut dolor voluptatum natus eos quos quibusdam\narchitecto commodi nesciunt aliquid voluptatem hic"
+    },
+    {
+      "postId": 9,
+      "id": "52",
+      "name": "aperiam aut est amet tenetur et dolorem",
+      "email": "Lazaro@nadia.ca",
+      "body": "et eos doloremque repellendus\nperspiciatis magnam incidunt sint et\nculpa est ipsam nobis voluptatem reiciendis\nvel eligendi explicabo quisquam voluptas asperiores mollitia"
+    },
+    {
+      "postId": 10,
+      "id": "53",
+      "name": "est molestiae facilis quis tempora numquam ratione nihil",
+      "email": "Judah@cristina.biz",
+      "body": "quidem magni nulla et quam\nsequi culpa harum magnam quis\ndolorem animi libero velit veritatis ullam quia\nconsequatur excepturi corporis"
+    }
+  ]
+}
